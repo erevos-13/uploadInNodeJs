@@ -27,7 +27,7 @@ This is from the [richardgirges](https://www.npmjs.com/~richardgirges)
 I use this and i make simple module to reduce the code in my main app.js.
 
 Here you can install my module is a simple one just to make your life more simple
-[uploadModule](https://www.npmjs.com/~orfeas) 
+[uploadModule](https://www.npmjs.com/package/uploadnode) 
 
 ## Npm install Simple Module
 Here is the link for my simple module i make for reduce the size of the code.
