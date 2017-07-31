@@ -32,7 +32,7 @@ Here you can install my module is a simple one just to make your life more simpl
 ## Npm install Simple Module
 Here is the link for my simple module i make for reduce the size of the code.
 
-[npm package](https://www.npmjs.com/package/uploadnodejs)
+[npm package](https://www.npmjs.com/package/uploadnode)
 ### Author
 
 [Erevos Github](https://github.com/erevos-13)
