@@ -2,8 +2,13 @@
 
 module.exports= {
     upload : upload
-
 };
+
+
+(function check() {
+
+
+});
 
     function upload(req, res, fileFromAction, url, renderOn) {
 
@@ -31,6 +36,9 @@ module.exports= {
             res.send('You do not set the file.');
         }
     }
+
+
+
 
 
 

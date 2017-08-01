@@ -16,12 +16,12 @@ app.get('/',function (req,res) {
 app.post('/fileUpload',function (req,res) {
     var fileFromAction = req.files.fileToUpload;
     var url = 'upload/';
-    //var renderOn = 'index'
+    var renderOn = 'success';
     /*
     This is the module i make with the express-fileupload
     you can see in the folder uploadModule is Simple.
     */
-    uploadModules.upload(req, res, fileFromAction ,url);
+    uploadModules.upload(req, res, fileFromAction ,url, renderOn);
 
 });
 
